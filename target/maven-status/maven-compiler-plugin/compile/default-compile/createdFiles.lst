@@ -1,0 +1,9 @@
+me/playbosswar/cft/utils/GenericUtils.class
+me/playbosswar/cft/utils/MapCleaner.class
+me/playbosswar/cft/utils/JavaUtils.class
+me/playbosswar/cft/utils/ChunkUtils.class
+me/playbosswar/cft/utils/FactionUtils.class
+me/playbosswar/cft/listeners/BlockModifyEvents.class
+me/playbosswar/cft/listeners/JoinListener.class
+me/playbosswar/cft/utils/BlockUtils.class
+me/playbosswar/cft/Main.class

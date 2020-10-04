@@ -1,0 +1,12 @@
+main: me.playbosswar.cft.Main
+author: PlayBossWar
+name: CleanFactionTerrain
+version: 1.0
+api-version: 1.13
+description: Keep your faction world clean
+depend: [Factions]
+
+commands:
+  cft:
+    usage: /<command>
+    description: Main CleanFactionTerrain command

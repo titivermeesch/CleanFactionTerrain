@@ -1,0 +1,20 @@
+pos1:
+  x: -1500
+  y: 40
+  z: -1500
+pos2:
+  x: 1500
+  y: 125
+  z: 1500
+
+whitelist-items:
+  - DIAMOND_BLOCK
+
+valuable-chest-items:
+  - DIAMOND
+
+updates-per-tick: 10
+maintenance-on-cleanup: true
+cleanup-on-start: false
+alert-cleanup-progress-in-console: true
+no-rollback-around-claim-radius: 100
